@@ -1,21 +1,24 @@
 ## Hi there! My name is Guilherme, aka "Guilherme".
 ### Welcome to my Github profile.
 
-&nbsp;
 
 > I work with industrial automation by day, <br>
 > Backend student by night, <br>
 > and I'm looking to pivot my career towards becoming a backend developer
 
-&nbsp;
 
 ### Let's Connect 🤝
+<div>
+<a href="https://www.linkedin.com/in/guilherme-shibukawa/" target="_blank"> <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>   
+</div>
 
+<!--
 <div>
 <a href="https://www.linkedin.com/in/guilherme-shibukawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-&nbsp;
+-->
+<div>&nbsp;</div>
+<div>&nbsp;</div>
 
 ### Programming Languages
 <div><br>
