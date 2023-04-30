@@ -1,8 +1,8 @@
-### Hi there! :v: Welcome to my Github profile.
+### Hi there! Welcome to my Github profile :v::sunglasses:
 ### My name is Guilherme, aka "Guilherme".
 
 
-A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
+I work with industrial automation by day :sun_with_face: and I'm a Backend student by night :new_moon_with_face:
 
 Fale sobre coisas que você ache essencial para que as pessoas que passarem pelo seu perfil do GitHub vejam. Seguem algumas coisas que particularmente gosto de demonstrar, mas é totalmente opcional:
 
