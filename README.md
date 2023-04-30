@@ -17,7 +17,7 @@
 
 
 ### Programming Languages, Databases, Frameworks and Tools
-<div><br>
+<div>
   <img align="center" alt="Javinha-amor-da-minha-vida" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
