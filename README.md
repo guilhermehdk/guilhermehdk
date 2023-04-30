@@ -1,7 +1,5 @@
-### Hi there 👋
-
-# 👋 Hi there! Welcome to my Github profile.
-## My name is Guilherme, aka "Guilherme".
+### Hi there! Welcome to my Github profile.
+### My name is Guilherme, aka "Guilherme".
 
 <!--
 **guilhermehdk/guilhermehdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
