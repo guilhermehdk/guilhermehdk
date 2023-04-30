@@ -1,9 +1,5 @@
-## Hi there! My name is Guilherme, aka "Guilherme".
-### Welcome to my Github profile.
-<br>
-<h1>Hi there! My name is Guilherme, aka "Guilherme".</h1>
-<h2>Welcome to my Github profile.</h2>
-
+<h2>Hi there! My name is Guilherme, aka "Guilherme".</h2>
+<h3>Welcome to my Github profile.</h3>
 <br>
 
 I work with industrial automation by day :sun_with_face: and I'm a Backend student by night :new_moon_with_face:
