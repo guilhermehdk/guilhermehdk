@@ -1,50 +1,52 @@
-<h2>Hi there! My name is Guilherme, aka "Guilherme".</h2>
-<h3>Welcome to my Github profile.</h3>
-<br>
+## Hi there! My name is Guilherme, aka "Guilherme".
+### Welcome to my Github profile.
 
-I work with industrial automation by day :sun_with_face: and I'm a Backend student by night :new_moon_with_face:
+&nbsp;
 
-## Ferramentas e Tecnologias
+> I work with industrial automation by day, <br>
+> Backend student by night, <br>
+> and I'm looking to pivot my career towards becoming a backend developer
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+&nbsp;
 
-## Estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-## Contatos:
+### Let's Connect 🤝
 
 <div>
-<a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/guilherme-shibukawa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-Fale sobre coisas que você ache essencial para que as pessoas que passarem pelo seu perfil do GitHub vejam. Seguem algumas coisas que particularmente gosto de demonstrar, mas é totalmente opcional:
+&nbsp;
 
-Se você trabalha ou estuda. Se sim, é legal citar onde e em qual área;
-O que você anda aprendendo;
-Suas experiências, caso tenha, como atividades acadêmicas ou antigos trabalhos. Caso esteja em transição de carreira, acredito que seja legal citar também;
-Contatos, mas é importante pensar direitinho quais colocarem;
-Conhecimentos adquiridos;
-Região onde mora, mas não especifique tanto;
-Entre outros, coloque apenas o que você se sentir confortável para colocar.
+### Programming Languages
+<div><br>
+  <img align="center" alt="Javinha-amor-da-minha-vida" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="c" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</div>
+          
 
-<!--
-**guilhermehdk/guilhermehdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Libraries and Frameworks
+<div><br>
+  <img align="center" alt="Springzinho" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+</div>
 
-Here are some ideas to get you started:
+<!--Infrastructure-->
+### Databases
+<div><br>
+  <img align="center" alt="oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+  <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+<div><br>
+  <img align="center" alt="intellij" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
+
+&nbsp;
 
 README.md
