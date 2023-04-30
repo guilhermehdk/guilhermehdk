@@ -30,9 +30,9 @@
   <img align="center" alt="postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
-  <img align="center" alt="intellij" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="intellij" height="40" width="40" src="https://user-images.githubusercontent.com/117693886/235336534-ae61a7cb-5878-4de8-87dd-83c5148de7be.png">
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="github" height="40" width="40" src="https://user-images.githubusercontent.com/117693886/235336085-8192e8f3-d95f-4ed8-a299-48271479409b.png">
 </div>
 
 <!--
