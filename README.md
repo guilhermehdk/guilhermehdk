@@ -15,7 +15,7 @@
 <div>&nbsp;</div>
 
 <div align="left">  
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermehdk&show_icons=true&count_private=true&hide_border=true&theme=dracula&hide_rank=true&hide=issues" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api?username=guilhermehdk&show_icons=true&count_private=true&hide_border=true&theme=dracula&hide_rank=true&hide=issues" /> 
 </div>
 
 ### Programming Languages, Databases, Frameworks and Tools
